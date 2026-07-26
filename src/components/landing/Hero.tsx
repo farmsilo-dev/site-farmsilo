@@ -70,7 +70,7 @@ export function Hero() {
                 asChild
               >
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.farmsilo"
+                  href="https://play.google.com/store/apps/details?id=com.farmsilo&hl=pt_BR"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2"
